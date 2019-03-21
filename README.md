@@ -5,3 +5,4 @@ Simply select the date you are visiting on the datepicker calendar and ouila!
 
 WTF utilizes the Yelp Fusion API and the TicketMaster API, AJAX, Bootstrap, Materialize, Animate.css and Firebase.
 
+Live Demo : https://cameronforrest.github.io/WTF_App/
